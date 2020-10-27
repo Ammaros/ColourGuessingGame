@@ -1,12 +1,12 @@
-let game = {};
+// let game = {};
 
-game.init = function() {
-    setupModeButtons();
-    squaresEventListener();
-    reset();
-}
+// game.init = function() {
+//     setupModeButtons();
+//     squaresEventListener();
+//     reset();
+// }
 
-game.init();
+// game.init();
 
 let numOfSquares = 6;
 let colours = [];
